@@ -10,7 +10,7 @@
 ## Installation
 
 ### Windows
-Copy files into the `$USERPROFILE/.vscode/extensions` folder
+Copy files into the `%USERPROFILE%/.vscode/extensions` folder
 
 ### Mac/Linux
 Copy files into the `$HOME/.vscode/extensions` folder
